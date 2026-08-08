@@ -27,10 +27,6 @@ que puedes revisar cambiar o borrar cuando quieras
   -  MODIFICACION CAMBIAR SU VALOR
   -  como su nombre lo indica  puede variar puede cambiar su contenido  cuantas veces  quieras
   -  ejem edad = 19 ahora  la variable edad ya no es 18 ahora vale  19
-  -  
-  -  
- 
-  -  
-  -   
+    
 
 
